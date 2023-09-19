@@ -1,4 +1,5 @@
 # the-personal-assistant-the-child
+"The supports all languages, including English, Spanish, Chinese, Arabic, Hindi, French, Russian, Portuguese, German, and Japanese."
 Gant's is an artificial intelligence personal assistant program designed to provide assistance and answers to a variety of questions and inquiries. This program is characterized as a simple model of building a curious child who learns from the user each time.
 
 When you ask a question to Gant's, its initial answer may be "I don't know the answer." This reflects the fact that at the beginning of the project, it does not have any prior knowledge. Through this response, the user is encouraged to provide the correct answer to the question. Afterwards, Gant's asks the user to write the correct answer to the question and stores it in a text file named "knowledge".
