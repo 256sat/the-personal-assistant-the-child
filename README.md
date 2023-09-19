@@ -9,3 +9,4 @@ Once Gant's learns the correct answer to a specific question, it will be able to
 Consequently, Gant's knowledge is enhanced and its knowledge base is expanded each time it learns from the user. The text file "knowledge" containing the questions and answers can be leveraged to enhance its capabilities and improve its performance in providing appropriate answers.
 
 In this way, Gant's is developed to be an effective personal assistant that learns from its interactions with the user and is capable of providing accurate and comprehensive answers to future inquiries.
+![لقطة شاشة 2023-09-19 163458](https://github.com/256sat/the-personal-assistant-the-child/assets/100966684/c9785dce-1c0d-4e34-a24d-8fc14d1bd839)
